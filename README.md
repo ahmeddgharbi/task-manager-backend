@@ -28,6 +28,6 @@ A REST API built with NestJS to manage tasks.
 
 
 ## Setup
-
+```bash
 npm install
 npm run start:dev
