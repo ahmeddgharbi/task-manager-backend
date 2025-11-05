@@ -9,7 +9,7 @@ A REST API built with NestJS to manage tasks.
 
 ## Architectural Decisions
 
-- Used NestJS modules to separate concerns (Tasks, Users, Common)
+- Used NestJS modules to separate concerns (Tasks, Users)
 - TypeScript for type safety  
 - Jest for testing  
 - Used DTOs for input validation 
